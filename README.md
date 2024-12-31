@@ -1,1 +1,1 @@
-This Project is an Online Book Store.
+Online Book Store.
